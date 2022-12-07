@@ -1,0 +1,13 @@
+{
+  "python.pythonPath": "env\\Scripts\\python.exe",
+  "python.linting.pylintArgs": [
+    "--load-plugins",
+    "pylint-flask",
+  ],
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "editor.foldingStrategy": "indentation",
+  "editor.formatOnType": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true
+}
